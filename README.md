@@ -38,3 +38,27 @@ Example: If State A has 25% of total cases and State B has 15%, this implies sig
 - Histograms and Distribution Plots:
   -  Global trends are shown using visual tools (e.g., Seaborn's histograms).
   -  Visualizations illustrate spikes and declines in cases and deaths, offering insights into the effectiveness of control measures over time.
+
+# Data analysis Questions
+1.What is the total number of confirmed cases worldwide?
+![Screenshot 2024-11-25 110343](https://github.com/user-attachments/assets/9dcfff1a-a581-46fe-bc15-731f3252a2b4)
+
+2.How many deaths have been reported globally?
+3.What is the total number of recovered cases worldwide?
+4.How many countries/regions are represented in the dataset?
+5.What is the trend of confirmed cases over time globally?
+6.Which province/state has reported the highest number of confirmed cases?
+7.Which country/region has the highest number of deaths?
+8.How does the number of confirmed cases vary across different provinces/states?
+9.What is the trend of deaths over time globally?
+10.Which country/region has the highest number of recovered cases?
+11.How does the number of recovered cases vary across different countries/regions?
+12.What is the distribution of confirmed cases by country/region?
+13.Is there a correlation between the number of confirmed cases and deaths?
+14.Is there a correlation between the number of confirmed cases and recovered cases?
+15.How does the mortality rate vary across different countries/regions?
+16.How does the recovery rate vary across different countries/regions?
+17.What is the trend of new confirmed cases over time globally?
+18.How does the fatality rate vary across different provinces/states?
+19.How does the recovery rate vary across different provinces/states?
+20.What is the trend of active cases over time globally?
